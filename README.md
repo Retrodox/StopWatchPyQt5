@@ -1,4 +1,4 @@
-Stopwatch Application
+Stopwatch Application**
 This is a simple stopwatch application built with PyQt5. It features a start, pause, reset, and exit button, along with a display for the elapsed time in the format of minutes, seconds, and milliseconds.
 
 Requirements
@@ -7,7 +7,7 @@ PyQt5
 Installation
 Install Python 3 if you haven't already. You can download it from the official Python website.
 
-Install PyQt5 using pip:
+Install PyQt5 using pip: **pip install PyQt5**
 
 bash
 Copy code
