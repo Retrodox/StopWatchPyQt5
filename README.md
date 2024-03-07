@@ -19,3 +19,10 @@ This is a simple stopwatch application built with PyQt5. It features a start, pa
 ##Running the Application
 
 1. Run the launch.bat or the shortcut I made for it in order to launch. Make sure your libraries are installed before!!!
+
+## Features
+
+- Start, pause, and reset the stopwatch.
+- Display the elapsed time in minutes, seconds, and milliseconds.
+- Frameless window with rounded corners.
+- Customizable color scheme through the stylesheet.
