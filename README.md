@@ -18,7 +18,7 @@ This is a simple stopwatch application built with PyQt5. I made it in order to t
 
 ##Running the Application
 
-1. Run the launch.bat or the shortcut I made for it in order to launch. Make sure your libraries are installed before!!!
+1. Run the launch.bat or the shortcut I made for it in order to launch. Make sure your libraries are installed before.
 
 ## Features
 
